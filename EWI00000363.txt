@@ -1,0 +1,96 @@
+{
+"Objects": {
+"dispute": {
+"applicant": "Agent",
+"dispute_id": "EWI00000363",
+"user": {
+"user_id": "3854",
+"email": "kevin.crossfield@lancasters-property.co.uk",
+"surname": "Landlord"
+}
+},
+"member": {
+"member_id": "6349",
+"g_number": "G06942",
+"member_name": "Lancasters Property Management Limited",
+"email": "kevin.crossfield@lancasters-property.co.uk",
+"sage_category": "1A",
+"member_status": "Member",
+"note": "15\/03\/23 RICS members",
+"approved_bodies": {
+"arla": false,
+"arma": false,
+"balma": false,
+"glm": false,
+"gorl": false,
+"corporate": false,
+"ha": false,
+"law_society": false,
+"naea": false,
+"safeagent": false,
+"nforl": false,
+"nla": false,
+"oea": false,
+"other_body": false,
+"rics": true,
+"rsl": false,
+"tls": false,
+"tpos": false,
+"ukala": false,
+"none": false
+},
+"branch": {
+"branch_id": "6349::15490",
+"branch_name": "Lancasters Property Management",
+"branch_status": "Open"
+}
+},
+"landlord": {
+"landlord_type": "Non Member",
+"landlord_id": "6349::15490::120556",
+"firstname": "Terence",
+"surname": "Dunning"
+}
+},
+"FormData": {
+"tenancy": {
+"end_date": "2023-07-06",
+"start_date": "2017-09-22",
+"deposit_amount": "550.00",
+"deposit_protection_start_date": "2017-09-22",
+"non_managed": "false",
+"tenancy_type": "Agent",
+"paon": "16",
+"street": "Bellmer Close",
+"town": "Barnsley",
+"county": "South Yorkshire",
+"country": "United Kingdom",
+"postcode": "S71 2GF",
+"number_of_tenants": 1,
+"unique_id": "xrPxoYTQ",
+"tenancy_id": "6349::15490::120556::121307",
+"depository": "false"
+},
+"tenant": {
+"tenant_1": {
+"email": "kev200975@gmail.com",
+"title": "Mr.",
+"firstname": "Kevin",
+"surname": "Bligh",
+"country": "United Kingdom",
+"phone": "07710229327"
+}
+},
+"agent": {
+"email": "kevin.crossfield@lancasters-property.co.uk",
+"title": "Mr.",
+"firstname": "Adam",
+"surname": "Riley",
+"member_name": "Lancasters Property Management Limited",
+"street": "20 Market Street,Penistone,Sheffield,",
+"country": "United Kingdom",
+"postcode": "S36 6BZ",
+"phone": "01226 729009"
+}
+}
+}
